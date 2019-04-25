@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "mysite\\": "vendor/mysite/core",
+            "app\\": "app"
+        }
+    },
+    "require": {
+        "gabordemooij/redbean": "dev-master"
+    }
+}
